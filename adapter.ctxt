@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=adapter
+comment1.params=machineJP
+comment1.target=adapter(IJapan)
+comment2.params=
+comment2.target=double\ getPriceHKD()
+comment3.params=value
+comment3.target=double\ round5(double)
+numComments=4

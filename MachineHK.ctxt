@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MachineHK
+comment1.params=adapter
+comment1.target=MachineHK(IHongKong)
+comment2.params=
+comment2.target=void\ buy()
+comment3.params=
+comment3.target=double\ getPriceHKD()
+numComments=4
